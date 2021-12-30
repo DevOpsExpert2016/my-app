@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello World! Build Periodically" );
+         System.out.println( "Hello World! Build Poll SCM" );
     }
 }
